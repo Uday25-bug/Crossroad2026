@@ -26,7 +26,7 @@ export function Hero() {
 
       <motion.div variants={container} initial="hidden" animate="show" className="relative z-10 flex max-w-5xl flex-col items-center gap-6">
         <motion.p variants={rise} className="font-serif text-xs tracking-[0.5em] text-gold uppercase md:text-sm">
-          Government Engineering College Presents
+          Government Engineering College (Ec and Ai&Ds)Presents
         </motion.p>
 
         <motion.div variants={rise} className="flex items-center gap-4 text-gold/70">
@@ -43,9 +43,7 @@ export function Hero() {
             The Grand Freshers and Farewell Wizarding Gala
           </span>
           <span className="text-illuminated block text-4xl font-black uppercase sm:text-5xl md:text-7xl lg:text-8xl">
-          </span>
-          <span className="text-illuminated block text-4xl font-black uppercase sm:text-5xl md:text-7xl lg:text-8xl">
-            Wizarding Gala
+        
           </span>
         </motion.h1>
 
