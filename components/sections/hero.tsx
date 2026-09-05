@@ -40,10 +40,10 @@ export function Hero() {
         <motion.h1 variants={rise} className="text-balance font-serif leading-[1.05]">
           <span className="block text-2xl text-parchment/90 md:text-4xl">GECR Presents</span>
           <span className="text-illuminated mt-3 block text-4xl font-black uppercase sm:text-5xl md:text-7xl lg:text-8xl">
-            The Grand Freshers and Farewell'
+            The Grand Freshers and Farewell' Wizarding Gala
           </span>
           <span className="text-illuminated block text-4xl font-black uppercase sm:text-5xl md:text-7xl lg:text-8xl">
-           
+            Wizarding Gala
           </span>
         </motion.h1>
 
