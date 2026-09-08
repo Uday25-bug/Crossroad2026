@@ -5,11 +5,11 @@ import { motion } from 'framer-motion'
 const timeline = [
   { time: '10:00 AM', title: 'Platform 9¾ Opens', body: 'Registration, wristbands, and your very own house scarf.' },
   { time: '11:00 AM', title: 'The Sorting Ceremony', body: 'Freshers meet the Hat. Houses are assigned. Rivalries begin.' },
-  { time: '12:30 PM', title: 'Triwizard Games', body: 'House competitions, quidditch-lite, and the trivia gauntlet.' },
+  { time: '12:30 PM', title: 'Triwizard Games', body: 'You have to wait till he day comes.' },
   { time: '02:00 PM', title: 'The Great Feast', body: 'Lunch in the Great Hall beneath the floating candles.' },
-  { time: '03:30 PM', title: 'Talent of the Wizarding World', body: 'Open stage for music, dance, spells, and stand-up.' },
+  { time: '03:30 PM', title: 'Talent of the Wizarding World', body: 'Acts of students of our beloved college' },
   { time: '05:30 PM', title: 'The House Cup', body: 'Points are tallied. One house rises. Prizes for all champions.' },
-  { time: '06:00 PM', title: 'The Yule Ball', body: 'Lights dim, music rises. Dance until the candles burn low.' },
+  // { time: '06:00 PM', title: 'The Yule Ball', body: 'Lights dim, music rises. Dance until the candles burn low.' },
   { time: '07:00 PM', title: 'Mischief Managed', body: 'Farewell, and safe travels back to the Muggle world.' },
 ]
 
