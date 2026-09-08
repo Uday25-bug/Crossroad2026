@@ -26,7 +26,7 @@ export function Hero() {
 
       <motion.div variants={container} initial="hidden" animate="show" className="relative z-10 flex max-w-5xl flex-col items-center gap-6">
         <motion.p variants={rise} className="font-serif text-xs tracking-[0.5em] text-gold uppercase md:text-sm">
-          Government Engineering College Presents
+          Crossroad-2026 presents
         </motion.p>
 
         <motion.div variants={rise} className="flex items-center gap-4 text-gold/70">
