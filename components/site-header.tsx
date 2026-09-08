@@ -21,7 +21,7 @@ export function SiteHeader() {
       <div className="mx-auto flex max-w-6xl items-center justify-between px-4 py-3 md:px-8">
         <a href="#top" className="flex items-center gap-2 font-serif text-gold text-sm tracking-[0.25em] uppercase">
           <span className="inline-block h-6 w-6 rounded-full border border-gold/60 bg-gradient-to-br from-gold-bright to-crimson shadow-[0_0_14px_rgba(245,215,122,0.5)]" />
-          GECR
+          Motel The Village 
         </a>
         <nav aria-label="Main" className="hidden items-center gap-1 rounded-full border border-gold/20 bg-midnight/60 px-2 py-1 backdrop-blur-md md:flex">
           {links.map((l) => (
