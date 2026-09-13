@@ -196,7 +196,7 @@ export function VenueGallery({ images }: { images?: VenueImage[] }) {
       {/* --- Lightbox: all images --- */}
       {lightboxOpen && (
         <div
-          className="fixed inset-0 z-50 flex flex-col"
+          className="fixed inset-0 z-[999] flex flex-col"
           style={{ background: "rgba(4,5,12,0.96)" }}
           role="dialog"
           aria-modal="true"
