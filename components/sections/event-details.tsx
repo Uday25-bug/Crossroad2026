@@ -5,7 +5,7 @@ import { motion } from 'framer-motion'
 const cards = [
   {
     title: 'The Sorting',
-    body: 'Every fresher is sorted into a house on arrival. Your house earns points all day, and the House Cup is awarded at dusk.',
+    body: 'Every fresher and senior will be sorted into a house on arrival. Your house earns points all day, and the House Cup is awarded at dusk.',
     glyph: 'ᛝ',
   },
   {
@@ -14,8 +14,8 @@ const cards = [
     glyph: 'ᛟ',
   },
   {
-    title: 'The Yule Ball',
-    body: 'As the candles dim, the floor opens. Bring your best robes and your worst dance moves. Both are welcome.',
+    title: 'The game',
+    body: 'Surprice Yet to reveal.',
     glyph: 'ᛉ',
   },
 ]

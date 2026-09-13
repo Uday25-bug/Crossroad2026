@@ -9,6 +9,8 @@ import { Schedule } from '@/components/sections/schedule'
 import { DressCode } from '@/components/sections/dress-code'
 import { RsvpSection } from '@/components/rsvp/rsvp-section'
 import { SiteFooter } from '@/components/site-footer'
+import { VenueGallery } from "@/components/sections/venue-gallery"
+import { getVenueImages } from "@/components/sections/venue-loader"
 
 export default function Page() {
   return (
@@ -22,6 +24,7 @@ export default function Page() {
         <EventDetails />
         <Schedule />
         <DressCode />
+        <VenueGallery images={getVenueImages()} />
         <RsvpSection />
       </main>
       <SiteFooter />
