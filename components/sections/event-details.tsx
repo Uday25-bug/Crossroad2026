@@ -15,7 +15,7 @@ const cards = [
   },
   {
     title: 'The game',
-    body: 'Surprice Yet to reveal.',
+    body: 'Surprise Yet to reveal.',
     glyph: 'ᛉ',
   },
 ]
