@@ -57,7 +57,8 @@ export function Hero() {
             <ClockIcon />
             <div className="text-left">
               <p className="font-serif text-[10px] uppercase tracking-[0.3em] text-gold">Event Hours</p>
-              <p className="text-xl font-semibold text-parchment md:text-2xl">10:00 AM – 7:00 PM</p>
+              <p className="text-xl font-semibold text-parchment md:text-2xl">10:00 AM – 7:00 PM</p>7-october-2026
+
             </div>
           </div>
           <a
